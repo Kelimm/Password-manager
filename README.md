@@ -2,7 +2,7 @@
 Password Manager
 A password manager application built with Python and CustomTkinter. This application allows users to register, log in, and manage their site credentials using encryption.
 
-User Registration and Login: Secure user registration and login functionality.
+User Registration and Login: User registration and login functionality.
 Password Management: Add, view, search, and delete site credentials.
 Encryption: All credentials are encrypted using the cryptography library.
 Responsive UI: A responsive user interface built with CustomTkinter.
